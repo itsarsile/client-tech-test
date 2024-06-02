@@ -21,4 +21,4 @@ This document provides an overview of the Client Side of the technical test.
     ```
 
 4. **Access the API:**
-    The API will be running locally at `http://localhost:300`.
+    The API will be running locally at `http://localhost:3000`.
